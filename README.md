@@ -1,5 +1,5 @@
-## Hi there 👋
-# 💫 About Me:
+## Hello World 👋
+# About Me:
 I am a disciplined, adaptable, and curious individual with a strong passion for technology, cloud computing, and data. I handle challenges calmly, stay solution-focused, and love learning new skills to solve problems effectively. Whether working independently with structure or collaborating within a team, I am always ready to deliver my best work on every project.
 
 
@@ -10,7 +10,6 @@ I am a disciplined, adaptable, and curious individual with a strong passion for 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AR-Code99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AR-Code99&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AR-Code99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
